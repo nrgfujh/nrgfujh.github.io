@@ -1,0 +1,39 @@
+body {
+    background-color: #007ba7 ;
+    color: white}
+
+h1 {
+    color: rgb(255, 255, 255);
+    text-align:center;
+    margin: 50px;}
+    
+.title {
+    color: rgb(255, 255, 255);
+    text-align:center;
+    margin: 50px;}
+
+.head{ 
+    color: rgb(255, 255, 255);
+    text-align:center;
+    margin: 50px;
+
+}
+
+.img {
+    color: rgb(60, 60, 60) ;
+    background-color:rgb(255, 255, 255); 
+    text-align:center;
+    border:solid;
+    border-radius:15px;
+} 
+
+.p {
+    color: rgb(255, 255, 255);
+    text-align:justify;
+    margin: 50px;
+}
+h3 {
+    color: rgb(255, 255, 255);
+    text-align:justify;
+    margin: 50px;
+}
